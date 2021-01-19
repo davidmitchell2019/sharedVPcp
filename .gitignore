@@ -7,4 +7,4 @@ credentials.json
 *.idea
 terraform.tfstate
 .gitignore
-
+.terraform
