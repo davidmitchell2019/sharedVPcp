@@ -1,0 +1,6 @@
+venv
+*.terraform.tfstate
+key.json
+credentials.json
+*terraform.tfstate.backup
+*.terraform.tfstate.lock.info
