@@ -1,9 +1,9 @@
-billing_account_id = "01F636-1959C1-C0E7AB"
+billing_account_id = ""
 labels = {
  "foo": "bar", "bar": "baz"
 }
 region = "europe-west2"
-root_id = "314705326839"
+root_id = ""
 service_project_ids = [
   "serviceproject1",
   "serviceproject2",
